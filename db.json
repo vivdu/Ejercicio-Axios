@@ -1,0 +1,84 @@
+{
+  "personaje": [
+    {
+      "id": 1,
+      "nombre": "Clarence",
+      "rango": "Blacklist #1",
+      "alias": "Razor",
+      "vehiculo": "mazda",
+      "foto": "https://www.giantbomb.com/a/uploads/square_small/0/4054/471099-42_razor.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Toru Sato",
+      "rango": "Blacklist #2",
+      "alias": "Bull",
+      "vehiculo": "Mercedes-Benz SLR McLaren",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSzGzpDZQZWQnfW0hgm6-mvdJFN5LahwGUCgOkT2CiR14vAchY9u9P0ECGvf7QCSUhGU0&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "nombre": "Ronald Mccre",
+      "rango": "Blacklist #3",
+      "alias": "Ronnie",
+      "vehiculo": "Aston Martin DB9",
+      "foto": "https://cs9.pikabu.ru/post_img/2017/02/16/9/1487255884182692770.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Joe Vega",
+      "rango": "Blacklist #4",
+      "alias": "JV",
+      "vehiculo": "Dodge Viper SRT-10",
+      "foto": "https://nfspolska.pl/articles/images/need-for-speed-most-wanted/nfs-2005-need-for-speed-most-wanted-czarna-lista-04-jv.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Wes Allen",
+      "rango": "Blacklist #5",
+      "alias": "Webster",
+      "vehiculo": "Chevrolet Corvette C6",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLxGhisGiIHTv5d03RpCam6o41IfcY3P0LqSxBX9Cvp3dkrlUPZPvEQCRUnEKv0XKHTWY&usqp=CAU"
+    },
+    {
+      "id": 6,
+      "nombre": "Hector Domingo",
+      "rango": "Blacklist #6",
+      "alias": "Ming",
+      "vehiculo": "Lamborghini Gallardo",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9XKPGC5FzyDXR_oMzc19c-p-XbmadQtog1v53jGJz-fS_zD_phevdEBoeWalbf2lnYp8&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "nombre": "Kira Nakazato",
+      "rango": "Blacklist #7",
+      "alias": "Kaze",
+      "vehiculo": "Mercedes-Benz CLK 500",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_Sq1QzOl3c0U-ZLHHomJhVjBTyIsqmfRM0OYDsmqKdAVR-BZsJo0C0fjDiAKk6Ub3Wog&usqp=CAU"
+    },
+    {
+      "id": 8,
+      "nombre": "Jade Barret",
+      "rango": "Blacklist #8",
+      "alias": "Jewels",
+      "vehiculo": "Ford Mustang GT",
+      "foto": "https://www.postavy.cz/foto/jewels-foto.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Eugene James",
+      "rango": "Blacklist #9",
+      "alias": "Earl",
+      "vehiculo": "Mitsubishi Lancer Evolution VIII",
+      "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0ald_nGQEZm6h6dtOfE8XqNaUxJaf0ffcZXwLnFqyT0vKzXW7QflTwdTV5I5mXUtoRQ&usqp=CAU"
+    },
+    {
+      "id": 10,
+      "nombre": "Karl Smith",
+      "rango": "Blacklist #10",
+      "alias": "Baron",
+      "vehiculo": "Porsche Cayman S",
+      "foto": "https://radaris.com/i/e55124ba6c7bf586b624914173b436d5.jpg"
+    }
+  ]
+}
